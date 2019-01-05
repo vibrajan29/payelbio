@@ -1,9 +1,9 @@
 ## Belly Button Biodiversity Interactive Dashboard 
 ##### Full-Stack Data Analytics Web Application
 
-The creation of this interactive dashboard was inspired by a [study](http://robdunnlab.com/projects/belly-button-biodiversity/) conducted in January 2011 to invesigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home.
+The creation of this interactive dashboard was created a part of homework for the BootCamp course.
  
-The application is deployed on Heroku at the following link https://floating-temple-85728.herokuapp.com/.
+The application is deployed on Heroku at the following link https://payelbellybotns.herokuapp.com/.
 
 #### Key features
 * Interactive dashboard based on Plotly.js
